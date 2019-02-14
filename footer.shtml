@@ -1,0 +1,39 @@
+<!-- footer section -->
+<div class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <h1>Location</h1>
+                    <hr>
+                    <p><i class="fas fa-home"></i><br>34/3, Floor-1,<br> Ashish Building, DP Road, <br>Kothrud, Pune-411045.</p>
+                </div>
+            
+                    <div class="col-md-4">
+                        <h1>Opening Hours</h1>
+                        <hr>
+                        <p><i class="fas fa-clock"></i><br>Mon-Sun:<br>10:00 am - 11:00 pm</p>
+                    </div>
+            
+                        <div class="col-md-4">
+                            <h1>Contact Us</h1>
+                            <hr>
+                            <p><i class="fas fa-phone"></i><br>9876543210/<br>8976875493<br><a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a></p>
+                        </div>
+                    </div>
+                    <div class="chauli">
+                            <p>Copyright @ 2019<a href="https://www.chauli.com/"> Chauli Technologies </a> | All Right Reserved.</p>
+                          </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    <!-- bootstrap javascript files -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    </body>
+    </html>

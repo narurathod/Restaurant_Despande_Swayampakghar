@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Hotel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body >
+<!--#include file="navbar.shtml" -->
+<nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.shtml">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">about</li>
+        </ol>
+      </nav>
+
+      <div class="container">
+            <div class="row">
+                    <div class="col-md-5 order-md-2">
+                            <div class="aboutus">
+                            <img src="img/chef.png">
+                            </div>
+                    </div>
+                    <div class="col-md-7 order-md-1 veg" >
+                        <h1>About Us</h1>
+                        <hr>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras laoreet diam vitae dui hendrerit ultricies. Sed malesuada feugiat bibendum. Quisque finibus, elit ornare lacinia efficitur, augue ligula luctus nisl, ac interdum nunc massa eget orci. Donec fermentum nisl non mi consequat, vitae sollicitudin lacus finibus. Donec egestas vitae enim vehicula faucibus. Suspendisse vehicula lorem nec quam elementum cursus. Morbi venenatis eu nibh sit amet sodales. Donec euismod neque quis ex ullamcorper, eget accumsan felis ultricies. Aenean accumsan in nisl sed blandit. Ut eget bibendum mi.
+
+                                Sed nisi nibh, sagittis sed lacinia vestibulum, auctor in dui. Suspendisse potenti. Praesent quis auctor nisi. Donec sollicitudin dolor lorem, non mattis elit aliquet in. Fusce pellentesque erat non luctus vulputate. Mauris sed sapien eget elit venenatis lacinia. Nunc sed neque suscipit, commodo ipsum eget, bibendum nisi. Maecenas ut sollicitudin ante. Phasellus vulputate, urna non ultricies lobortis, diam risus sagittis ligula, vel placerat magna tellus quis arcu. Sed imperdiet, erat vel accumsan faucibus, nunc tortor cursus nunc, sit amet lobortis nunc nibh ac nisi. Fusce ullamcorper tortor dolor, vestibulum facilisis velit pretium vel. Etiam dictum augue at dui porta, nec tristique erat volutpat.
+                                
+                                Maecenas ac egestas erat.</p>
+                 </div>
+           
+            </div>
+        </div>
+
+
+<!--#include file="footer.shtml" -->
